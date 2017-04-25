@@ -1,6 +1,6 @@
 # vue-notepad
 
-> A Vue.js project
+> 用vue实现小米手机便签功能
 
 ## Build Setup
 
